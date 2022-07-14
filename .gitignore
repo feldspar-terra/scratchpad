@@ -2,6 +2,8 @@
 __pycache__/
 # *.py[cod]
 *$py.class
+CPI.ipynb
+Cribbage Scoring.ipynb
 
 # # C extensions
 # *.so
